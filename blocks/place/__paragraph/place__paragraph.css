@@ -1,0 +1,10 @@
+.place__paragraph {
+  margin: 0 0 26px 0;
+  padding: 0;
+  font: 400 18px/163% 'Inter', sans-serif;
+  color: #fff;
+}
+
+.place__paragraph:last-child {
+  margin-bottom: 0;
+}

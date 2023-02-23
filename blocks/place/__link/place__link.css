@@ -1,0 +1,6 @@
+.place__link {
+  font: 400 18px/22px 'Inter', sans-serif;
+  color: #fff;
+  text-decoration: none;
+  border-bottom: 1px solid #fff;
+}
