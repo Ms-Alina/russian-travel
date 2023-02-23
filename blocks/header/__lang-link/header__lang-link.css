@@ -1,6 +1,6 @@
 .header__lang-link {
   text-decoration: none;
-  font: 400 24px/28px 'Inter';
+  font: 400 24px/28px 'Inter', sans-serif;
   color: #fff;
   margin-left: 18px;
   position: relative;

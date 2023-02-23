@@ -1,0 +1,9 @@
+.lead__caption {
+  margin: 8px 0 0 0;
+  padding: 0;
+  max-width: 158px;
+  font: 400 10px/14px 'Inter', sans-serif;
+  color: #fff;
+  text-transform: uppercase;
+  align-self: flex-start;
+}
