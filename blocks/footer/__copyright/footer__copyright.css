@@ -4,3 +4,9 @@
   font: 400 14px/1.14 'Inter', sans-serif;
   color: #fff;
 }
+
+@media (max-width: 767px) {
+  .footer__copyright {
+    line-height: 1;
+  }
+}

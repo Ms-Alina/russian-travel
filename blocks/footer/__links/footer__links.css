@@ -6,3 +6,13 @@
 .footer__links:first-child {
   margin-left: 0;
 }
+
+@media (max-width: 767px) {
+  .footer__links {
+    margin-left: 0;
+    margin-bottom: 32px;
+  }
+  .footer__links:last-child {
+    margin-bottom: 0;
+  }
+}
