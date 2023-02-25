@@ -3,3 +3,9 @@
   justify-content: flex-end;
   margin-bottom: 6px;
 }
+
+@media (max-width: 767px) {
+  .header__lang-links {
+    margin-bottom: 8px;
+  }
+}
