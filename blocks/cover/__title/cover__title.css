@@ -7,3 +7,18 @@
   text-align: center;
   z-index: 2;
 }
+
+@media (max-width: 767px) {
+  .cover__title {
+    max-width: 400px;
+    font-size: 54px;
+    line-height: 1.1;
+  }
+}
+
+@media (max-width: 549px) {
+  .cover__title {
+    max-width: 250px;
+    font-size: 32px;
+  }
+}
