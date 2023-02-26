@@ -1,9 +1,21 @@
 .lead__caption {
   margin: 8px 0 0 0;
   padding: 0;
-  max-width: 158px;
   font: 400 10px/1.4 'Inter', sans-serif;
   color: #fff;
   text-transform: uppercase;
   align-self: flex-start;
+  letter-spacing: 1.5px;
+}
+
+@media (max-width: 1023px) {
+  .lead__caption {
+    margin-left: 24px;
+  }
+}
+
+@media (max-width: 767px) {
+  .lead__caption {
+    margin-left: 16px;
+  }
 }

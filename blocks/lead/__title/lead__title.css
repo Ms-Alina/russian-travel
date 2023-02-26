@@ -6,3 +6,18 @@
   color: #fff;
   text-align: center;
 }
+
+@media (max-width: 767px) {
+  .lead__title {
+    max-width: 450px;
+    font-size: 60px;
+  }
+}
+
+@media (max-width: 549px) {
+  .lead__title {
+    max-width: 288px;
+    font-size: 40px;
+    line-height: 1.1;
+  }
+}
