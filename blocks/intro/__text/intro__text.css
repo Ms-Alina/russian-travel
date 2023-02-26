@@ -5,3 +5,15 @@
   font: 400 16px/1.6 'Inter', sans-serif;
   color: #fff;
 }
+
+@media (max-width: 1023px) {
+  .intro__text {
+    max-width: 75%;
+  }
+}
+
+@media (max-width: 899px) {
+  .intro__text {
+    max-width: 100%;
+  }
+}

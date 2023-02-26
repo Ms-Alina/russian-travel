@@ -5,3 +5,17 @@
   font: 900 54px/1.07 'Inter', sans-serif;
   color: #fff;
 }
+
+@media (max-width: 1023px) {
+  .intro__title {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 1023px) {
+  .intro__title {
+    max-width: 80%;
+    font-size: 32px;
+    line-height: 1.1;
+  }
+}
