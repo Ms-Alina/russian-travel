@@ -4,6 +4,7 @@
   max-width: 690px;
   font: 900 54px/1.07 'Inter', sans-serif;
   color: #fff;
+  text-rendering: optimizeLegibility;
 }
 
 @media (max-width: 1023px) {

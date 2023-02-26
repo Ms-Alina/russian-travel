@@ -5,6 +5,7 @@
   font: 900 96px/1.04 'Inter', sans-serif;
   color: #fff;
   text-align: center;
+  text-rendering: optimizeLegibility;
 }
 
 @media (max-width: 767px) {
