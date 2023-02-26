@@ -16,3 +16,5 @@
 
 **Планы по дороботке:**
 * добавление бургер меню
+
+*[Ссылка на макет в Figma](https://ms-alina.github.io/russian-travel/)*
