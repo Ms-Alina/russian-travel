@@ -4,3 +4,25 @@
   padding-top: 92px;
   padding-bottom: 92px;
 }
+
+@media (max-width: 1279px) {
+  .places {
+    max-width: calc(100% - 2*48px);
+  }
+}
+
+@media (max-width: 1023px) {
+  .places {
+    max-width: calc(100% - 2*24px);
+    padding-top: 88px;
+    padding-bottom: 90px;
+  }
+}
+
+@media (max-width: 767px) {
+  .places {
+    max-width: 100%;
+    padding-top: 64px;
+    padding-bottom: 66px;
+  }
+}
