@@ -1,18 +1,18 @@
-.footer__links {
+.nav__links {
   margin: 0 0 0 18px;
   padding: 0;
 }
 
-.footer__links:first-child {
+.nav__links:first-child {
   margin-left: 0;
 }
 
 @media (max-width: 767px) {
-  .footer__links {
+  .nav__links {
     margin-left: 0;
     margin-bottom: 32px;
   }
-  .footer__links:last-child {
+  .nav__links:last-child {
     margin-bottom: 0;
   }
 }

@@ -1,4 +1,4 @@
-.footer__nav {
+.nav__menu {
   list-style: none;
   display: flex;
   margin: 0;
@@ -6,7 +6,7 @@
 }
 
 @media (max-width: 767px) {
-  .footer__nav {
+  .nav__menu {
     flex-direction: column;
     margin-bottom: 48px;
   }

@@ -5,6 +5,7 @@
   align-items: center;
   background: url(../../../images/cover-trains.jpg) no-repeat;
   background-size: cover;
+  background-position: center;
   position: relative;
   min-height: 740px;
   width: 100%;
