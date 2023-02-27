@@ -1,16 +1,22 @@
 .header__lang-link {
-  font: 400 24px/1.17 'Inter';
+  font: 400 24px/1.17 'Inter', sans-serif;
   color: #fff;
   margin: 0 0 0 18px;
   padding: 0;
   position: relative;
   text-decoration: none;
-  /*background: none;
-  border: none;*/
+  opacity: 1;
+  -webkit-transition: opacity .6s ease;
+  -o-transition: opacity .6s ease;
+  transition: opacity .6s ease;
 }
 
 .header__lang-link:first-child {
   margin-left: 0;
+}
+
+.header__lang-link:hover {
+  opacity: .8;
 }
 
 @media (max-width: 767px) {
